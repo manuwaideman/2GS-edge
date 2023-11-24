@@ -29,9 +29,14 @@ O jogo inicia com uma sequência simples de luzes e sons. À medida que o jogado
 Ao detectar a capacidade do usuário de lidar com sequências e manter a atenção, o jogo adiciona uma dimensão lúdica e prática à abordagem mais clínica do EmoAlly.
 
 ---
-[Link para a Simulação no Wokwi](https://wokwi.com/projects/382222480541002753)
 
-[Link para o Vídeo Demonstrativo](https://youtu.be/PiklM9kBJuA)
+[Link para a Simulação no Wokwi](https://wokwi.com/projects/382222480541002753)
+[Link para a Vídeo Demonstrativo](https://youtu.be/PiklM9kBJuA)
+
 ---
 
 **Nota:** Este projeto visa promover a compreensão e o suporte à saúde mental, destacando a importância de abordar essa questão de forma integral e acessível.
+
+## Integrantes
+- Manoella Herrerias Waideman - RM98906
+- Pedro Henrique Palladino - RM551180
